@@ -17,7 +17,8 @@ What can you tell about the organization’s password policy (e.g. password leng
 What would you change in the password policy to make breaking the passwords harder? 
 
 Try to crack the passwords provided in the 'password dump' file using available tools like hashcat.
-LINK:
+
+LINK: https://github.com/IgnitE-vaibhav/GoldMan-Sach-Virrtual-Engineering-program-work-/blob/main/password-dump.txt
 
 
 

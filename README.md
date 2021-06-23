@@ -16,4 +16,8 @@ What controls could be implemented to make cracking much harder for the hacker i
 What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 What would you change in the password policy to make breaking the passwords harder? 
 
+Try to crack the passwords provided in the 'password dump' file using available tools like hashcat.
+LINK:
+
+
 

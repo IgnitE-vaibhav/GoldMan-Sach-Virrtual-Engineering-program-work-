@@ -21,7 +21,7 @@ What would you change in the password policy to make breaking the passwords hard
 
 Try to crack the passwords provided in the 'password dump' file using available tools like hashcat.
 
-LINK: https://github.com/IgnitE-vaibhav/GoldMan-Sach-Virrtual-Engineering-program-work-/blob/main/password-dump.txt
+LINK: https://github.com/VaibhavSinghDev/GoldMan-Sach-Virrtual-Engineering-program-work-/blob/main/password-dump.txt
 
 
 

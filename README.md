@@ -29,7 +29,7 @@ RESULT :
 When the task was performed , I got to know that the passwords were encrypted by outdated MD5 hash algorithm which  provides a very weak protection.
 
 The solutions provided to the organisation and the cracked passwords are mentioned in the draft file.
-LINK of Full Report : https://github.com/IgnitE-vaibhav/GoldMan-Sach-Virrtual-Engineering-program-work-/blob/main/Report.pdf
+LINK of Full Report : https://github.com/VaibhavSinghDev/GoldMan-Sach-Virrtual-Engineering-program-work-/blob/main/Report.pdf
 
 
 
